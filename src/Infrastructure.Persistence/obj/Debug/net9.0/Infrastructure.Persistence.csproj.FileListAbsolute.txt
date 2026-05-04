@@ -1,0 +1,15 @@
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/bin/Debug/net9.0/Infrastructure.Persistence.deps.json
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/bin/Debug/net9.0/Infrastructure.Persistence.dll
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/bin/Debug/net9.0/Infrastructure.Persistence.pdb
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/bin/Debug/net9.0/Core.Application.dll
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/bin/Debug/net9.0/Core.Application.pdb
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.csproj.AssemblyReference.cache
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.AssemblyInfoInputs.cache
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.AssemblyInfo.cs
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.csproj.CoreCompileInputs.cache
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastr.56C47081.Up2Date
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.dll
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/refint/Infrastructure.Persistence.dll
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/Infrastructure.Persistence.pdb
+/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/obj/Debug/net9.0/ref/Infrastructure.Persistence.dll

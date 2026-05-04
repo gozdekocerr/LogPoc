@@ -1,0 +1,12 @@
+/Users/kocerg/Documents/projects/POC/src/Core.Application/bin/Debug/net9.0/Core.Application.deps.json
+/Users/kocerg/Documents/projects/POC/src/Core.Application/bin/Debug/net9.0/Core.Application.dll
+/Users/kocerg/Documents/projects/POC/src/Core.Application/bin/Debug/net9.0/Core.Application.pdb
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.csproj.AssemblyReference.cache
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.AssemblyInfoInputs.cache
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.AssemblyInfo.cs
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.csproj.CoreCompileInputs.cache
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.dll
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/refint/Core.Application.dll
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/Core.Application.pdb
+/Users/kocerg/Documents/projects/POC/src/Core.Application/obj/Debug/net9.0/ref/Core.Application.dll

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "FahPu0815e0=",
+  "success": true,
+  "projectFilePath": "/Users/kocerg/Documents/projects/POC/src/Infrastructure.Persistence/Infrastructure.Persistence.csproj",
+  "expectedPackageFiles": [
+    "/Users/kocerg/.nuget/packages/microsoft.extensions.dependencyinjection.abstractions/10.0.7/microsoft.extensions.dependencyinjection.abstractions.10.0.7.nupkg.sha512",
+    "/Users/kocerg/.nuget/packages/microsoft.extensions.logging.abstractions/10.0.7/microsoft.extensions.logging.abstractions.10.0.7.nupkg.sha512",
+    "/Users/kocerg/.nuget/packages/system.diagnostics.diagnosticsource/10.0.7/system.diagnostics.diagnosticsource.10.0.7.nupkg.sha512",
+    "/Users/kocerg/.nuget/packages/microsoft.netcore.app.ref/9.0.13/microsoft.netcore.app.ref.9.0.13.nupkg.sha512",
+    "/Users/kocerg/.nuget/packages/microsoft.aspnetcore.app.ref/9.0.13/microsoft.aspnetcore.app.ref.9.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
